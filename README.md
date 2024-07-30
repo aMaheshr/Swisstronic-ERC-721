@@ -1,7 +1,5 @@
 # Swisstronic-ERC-721
-Swisstronik Techinical Tasks - 3 , Mint a ERC-721 token
 
-# Swisstronic-ERC-20
 
 ### Swisstronik-Testnet-Technical Task 3 ( Mint a ERC-721 token ) Guide
  
